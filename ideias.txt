@@ -1,0 +1,14 @@
+Criar um site com todos os exercicios do curso.
+
+GPT - https://chatgpt.com/c/66f6bff4-4c58-8010-8a18-ec22e1e5edf2
+
+Módulos em cards, com link para suas páginas.
+Navegador lateral servindo como índice.
+Exercicios explicados e resolvidos.
+Link de download dos exercicios prontos num arquivo zipado.
+
+
+
+opcional:
+Aulas e conteúdos explicados (caso dê tempo).
+Colocar um editor de codigo.

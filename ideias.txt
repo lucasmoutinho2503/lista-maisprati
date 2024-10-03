@@ -7,8 +7,29 @@ Navegador lateral servindo como índice.
 Exercicios explicados e resolvidos.
 Link de download dos exercicios prontos num arquivo zipado.
 
+Link do Github perto do fim da página junto com informações da +prati e codifica edu.
+
+Para os codigos de JS dentro do site:
+O Código ficará dentro de uma "caixa" que terá um botão na parte superior para baixar ou copiar o código. (Talvez permita edição)
+Após entrar, terá um botão que permite que aquele código seja executado.
+Caso necessite de interação do usuário, ele abre uma caixa para colocar os dados pedidos.
+
+API do editor: https://quilljs.com/
+Imagens PNG: https://www.hippopng.com/
+Carrossel de Cards: https://codepen.io/Caellina/pen/QWZZxNG
+
+
 
 
 opcional:
 Aulas e conteúdos explicados (caso dê tempo).
 Colocar um editor de codigo.
+
+Paletas de cores Codifica Edu:
+#FFF3FF - Branco
+#E42C5D - Rosa (?)
+
+Paletas de cores +PraTi:
+#F27E63 - laranja
+#2987D9 - Azul
+#FFF3FF - Branco

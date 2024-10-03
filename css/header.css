@@ -1,0 +1,65 @@
+/* Define o estilo geral da página */
+body {
+    margin: 0;
+    font-family: Roboto;
+}
+
+/* Estiliza o cabeçalho */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center; /* Centraliza o conteúdo */
+    padding: 10px; /* Ajuste para um valor menor */
+}
+
+/* Estilo para a logo */
+h1 {
+    color: #FFF3FF;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0; /* Remover a margem superior */
+    margin-bottom: 15px; /* Espaço entre a logo e o menu */
+}
+
+.rosa {
+    color: #E42C5D;
+}
+
+.laranja {
+    color: #F27E63;
+}
+
+.azul {
+    color: #2987D9;
+}
+
+/* Estilo da navegação */
+nav {
+    display: flex; /* Usa flexbox para alinhar links horizontalmente */
+    justify-content: center; /* Centraliza os links */
+}
+
+nav ul {
+    list-style: none; /* Remove os marcadores da lista */
+    padding: 0;
+    margin: 0;
+    display: flex; /* Exibe os itens de lista em linha */
+}
+
+nav ul li {
+    margin: 0 10px; /* Espaçamento horizontal entre os links */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+/* Estilo de hover nos links */
+nav ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}

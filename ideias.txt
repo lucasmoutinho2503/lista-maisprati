@@ -18,7 +18,9 @@ API do editor: https://quilljs.com/
 Imagens PNG: https://www.hippopng.com/
 Carrossel de Cards: https://codepen.io/Caellina/pen/QWZZxNG
 
-
+Desenvolver uma página para cada aula.
+Aula 1: Mostrar a grade do curso e como que vai funcionar
+Aula 2: seguir o PDF
 
 
 opcional:
